@@ -13,7 +13,7 @@ Matplotlib]
 This repository contains a user-friendly Graphical User Interface (GUI) designed for basic digital image processing operations.
 The GUI allows you to apply the following operations:
 
-[Binarization
+`Binarization`
 
 Grayscale Conversion
 
@@ -25,7 +25,7 @@ Histogram Equalization
 
 Region Growing Method (named "Amibas")]
 
-`Additionally, the GUI provides the functionality to visualize image histograms.
+`Additionally, the GUI provides the functionality to visualize image histograms.`
 
 ##		Features
 [Binarization:] `Convert images to binary format.
@@ -58,7 +58,7 @@ Clone this repository and navigate to the project directory. Run the main script
 
 ##		Important Note
 
-The documents include a folder named [library]. 
+The documents include a folder named [libreria](Libreria). 
 Please ensure you add this library to your Python libraries 
 or, alternatively, have it in the same directory as your code.
 
