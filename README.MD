@@ -2,10 +2,10 @@
 
 ##		Prerequisites
 Before running the code, make sure you have the following libraries installed:
-[OpenCV
-PIL
-PyQt5
-Matplotlib]
+- OpenCV
+- PIL
+- PyQt5
+- Matplotlib]
 
 ```Read Getting started to see how to download the necessaary libraries```
 
@@ -13,44 +13,46 @@ Matplotlib]
 This repository contains a user-friendly Graphical User Interface (GUI) designed for basic digital image processing operations.
 The GUI allows you to apply the following operations:
 
-`Binarization`
+- Binarization
 
-Grayscale Conversion
+- Grayscale Conversion
 
-Binarization using Otsu's Method
+- Binarization using Otsu's Method
 
-Binarization using Gaussian Method
+- Binarization using Gaussian Method
 
-Histogram Equalization
+- Histogram Equalization
 
-Region Growing Method (named "Amibas")]
+- Region Growing Method (named "Amibas")]`
 
-`Additionally, the GUI provides the functionality to visualize image histograms.`
+- Additionally, the GUI provides the functionality to visualize image histograms.`
 
 ##		Features
-[Binarization:] `Convert images to binary format.
+- Binarization: `Convert images to binary format.`
 
-[Grayscale]: `Convert images to grayscale.
+- Grayscale]: `Convert images to grayscale.`
 
-[Otsu's Binarization:] `Apply Otsu's method for image binarization.
+- Otsu's Binarization: `Apply Otsu's method for image binarization.`
 
-[Gaussian Binarization:] `Apply Gaussian method for image binarization.
+- Gaussian Binarization: `Apply Gaussian method for image binarization.`
 
-[Histogram Equalization:] `Enhance the contrast of images using histogram equalization.
+- Histogram Equalization: `Enhance the contrast of images using histogram equalization.`
 
-[Region Growing (Amibas):] `Segment images using the region growing method.
+- Region Growing (Amibas): `Segment images using the region growing method.`
 
-[Histogram Visualization:] `View the histogram of the processed images.
+- Histogram Visualization: `View the histogram of the processed images.`
 
 ##		Getting Started
 ```
 To run the code, ensure you have the required libraries installed.
 You can install them using the following commands:
 ```
-[pip install opencv-python]
-[pip install pillow]
-[pip install pyqt5]
-[pip install matplotlib]
+```
+pip install opencv-python
+pip install pillow]
+pip install pyqt5]
+pip install matplotlib
+```
 
 ##		Usage
 Clone this repository and navigate to the project directory. Run the main script to launch the GUI:
