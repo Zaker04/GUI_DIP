@@ -23,7 +23,7 @@ The GUI allows you to apply the following operations:
 
 - Histogram Equalization
 
-- Region Growing Method (named "Amibas")]`
+- Region Growing Method (named "Amibas")]
 
 - Additionally, the GUI provides the functionality to visualize image histograms.`
 
@@ -49,18 +49,24 @@ You can install them using the following commands:
 ```
 ```
 pip install opencv-python
-pip install pillow]
-pip install pyqt5]
+pip install pillow
+pip install pyqt5
 pip install matplotlib
 ```
 
 ##		Usage
-Clone this repository and navigate to the project directory. Run the main script to launch the GUI:
-[python GUI-4.0.py]
-
+Clone this repository and navigate to the project directory.
+```
+# Clone this repository
+$ git clone https://github.com/Zaker04/GUI_DIP.git
+```
+ Run the main script to launch the GUI:
+```
+python GUI-4.0.py
+```
 ##		Important Note
 
-The documents include a folder named [libreria](Libreria). 
+The documents include a folder named [Libreria](Libreria). 
 Please ensure you add this library to your Python libraries 
 or, alternatively, have it in the same directory as your code.
 
