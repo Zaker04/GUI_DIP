@@ -383,16 +383,6 @@ class WidgetG(QWidget):
         Metodo.Aplicaciones(Value)
 
 
-
-
-
-
-
-
-
-
-
-
 '''Inicia GUI'''
 #app=QApplication.instance() # checks if QApplication already exists 
 #if not app: # create QApplication if it doesnt exist 
