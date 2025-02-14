@@ -1,4 +1,4 @@
-#Graphical User Interface Image Processing
+# Graphical User Interface Image Processing
 
 ##		Prerequisites
 Before running the code, make sure you have the following libraries installed:
