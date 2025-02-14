@@ -5,7 +5,7 @@ Before running the code, make sure you have the following libraries installed:
 - OpenCV
 - PIL
 - PyQt5
-- Matplotlib]
+- Matplotlib
 
 ```Read Getting started to see how to download the necessaary libraries```
 
@@ -23,7 +23,7 @@ The GUI allows you to apply the following operations:
 
 - Histogram Equalization
 
-- Region Growing Method (named "Amibas")]
+- Region Growing Method (named "Amibas")
 
 - Additionally, the GUI provides the functionality to visualize image histograms.`
 
